@@ -1,1 +1,1 @@
-# Ikigai_assignments
+# Ikigai_Lab
